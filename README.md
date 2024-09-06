@@ -17,10 +17,10 @@ You will also see any lint errors in the console.
 ### `npm crypto'
 
 THeo4MyNw79i3BRVs5hBBQQ2oJP9CyHJid
-TRC 20
+(TRC 20)
 
 0xe0d8665f782e02f13f00ab947dc7cf1a7f343b27
-BEP/ERC 20
+(BEP/ERC 20)
 
 ### `npm run test`
 
