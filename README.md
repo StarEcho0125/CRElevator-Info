@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 ### `npm crypto'
 
-TEMepEx9QhPHDmEXMHnKVzrpHjTKM3DiQs
+
 (TRC 20)
 
 0xe0d8665f782e02f13f00ab947dc7cf1a7f343b27
